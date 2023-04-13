@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/pierre/Téléchargements/demineur-SIGNING-DESOUSA'
+gcc  -Wall -g -lsx -o main.o -c main.c 
+gcc  -Wall -g -lsx -o modele.o -c modele.c 
+gcc  -Wall -g -lsx -o callbacks.o -c callbacks.c
+gcc  -Wall -g -lsx -o vue.o -c vue.c 
+gcc  -Wall -g -lsx -o Demineur  main.o modele.o callbacks.o vue.o
+make: Leaving directory '/home/pierre/Téléchargements/demineur-SIGNING-DESOUSA'
+ 

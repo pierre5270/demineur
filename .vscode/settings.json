@@ -1,0 +1,36 @@
+{
+    "files.associations": {
+        "data.h": "c",
+        "stdlib.h": "c",
+        "libsx.h": "c",
+        "vue.h": "c",
+        "modele.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/pierre/Bureau/Myproject 2",
+            "binaryPath": "/home/pierre/Bureau/Myproject 2/Demineur",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/pierre/Bureau/Myproject2",
+            "binaryPath": "/home/pierre/Bureau/Myproject2/Demineur",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/pierre/Bureau/Myproject2 Modify",
+            "binaryPath": "/home/pierre/Bureau/Myproject2 Modify/Demineur",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/pierre/Musique/Myproject2 Modify",
+            "binaryPath": "/home/pierre/Musique/Myproject2 Modify/Demineur",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/pierre/Téléchargements/demineur-SIGNING-DESOUSA",
+            "binaryPath": "/home/pierre/Téléchargements/demineur-SIGNING-DESOUSA/Demineur",
+            "binaryArgs": []
+        }
+    ]
+}
